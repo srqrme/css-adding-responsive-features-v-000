@@ -56,6 +56,8 @@
     display: none;
   }
   #navbar nav a.menu-icon {
+    display: block;
+    float: right;
     
   }
 }
