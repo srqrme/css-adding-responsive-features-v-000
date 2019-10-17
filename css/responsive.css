@@ -56,7 +56,7 @@
     display: none;
   }
   #navbar nav a.menu-icon {
-    display: block;
+    display: in-line block;
     float: right;
     font-size: 1em;
   }
