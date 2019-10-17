@@ -1,5 +1,7 @@
 @media only screen and (max-width: 1180px) {
   .wrapper { width: 90%; }
   #section { position: absolute;
-  width: auto;}
+  width: auto;
+  top: 82px;
+  }
 }
