@@ -52,7 +52,7 @@
 }
 
 @media only screen and (max-width: 700px) {
-  #navbar nav a:link {
-    
+  #navbar nav a {
+    display: none;
   }
 }
