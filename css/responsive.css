@@ -58,6 +58,9 @@
   #navbar nav a.menu-icon {
     display: inline-block;
   }
+  #logo h1 {
+    display: inline-block;
+  }
   #logo h2 {
     display: none;
   }
