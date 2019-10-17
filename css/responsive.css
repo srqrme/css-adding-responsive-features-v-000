@@ -56,8 +56,6 @@
     display: none;
   }
   #navbar nav a.menu-icon {
-    display: in-line block;
-    float: right;
-    font-size: 1em;
+    display: inline-block;
   }
 }
