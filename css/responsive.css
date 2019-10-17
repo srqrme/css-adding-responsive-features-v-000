@@ -34,6 +34,7 @@
     font-size: 0.9em;
   }
   .col-1, .col-2, .col-3 {
+    width: 100%;
     
   }
   .col-3 p {
