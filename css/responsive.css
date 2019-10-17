@@ -33,13 +33,13 @@
   #navbar nav a {
     font-size: 0.9em;
   }
+  .col-1, .col-2, .col-3 {
+    
+  }
   .col-3 p {
     -moz-column-count: 1;
     -webkit-column-count: 1;
     column-count: 1;
-    width: 100%;
-    margin-left: 0;
-    float: none;
   }
   
   
